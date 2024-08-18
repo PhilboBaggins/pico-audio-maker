@@ -1,0 +1,222 @@
+{
+  "uuid": "bed09cb300f03b24814e1815587d2412",
+  "path": "Offline/EasyEDA-Project%20-%20Pico%20audio%20maker",
+  "name": "EasyEDA-Project - Pico audio maker",
+  "content": "",
+  "created_at": "2024-07-08 04:24:14",
+  "updated_at": "2024-08-18 23:30:04",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4c3eff06a53d53780760d3506ebf6dd1",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "59c38027916040e490a75f380b58f33d": 1,
+        "dd86aae6710740ffa52422ca8fd7e0ac": 1,
+        "906918f208bf46c7af6af1256c5c5b8d": 1,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 2,
+        "a9aa2b14f188405792fa87ac344499a4": 1,
+        "2e59bb1577334fe596d79098995e86cb": 1,
+        "a7291ceaee5442a999df26c55c7e675d": 1,
+        "3ec77201bbcd4ecd8722658d581a4e60": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "10u",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H1",
+          {
+            "Supplier Part": "C146690",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x3",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x2",
+          1,
+          "HDR-F-2.54_1X2",
+          "H2",
+          {
+            "Supplier Part": "C49661",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x2",
+            "puuid": "36b1306a115341f4b4d9407fb34974e0",
+            "uuid": "3ec77201bbcd4ecd8722658d581a4e60"
+          }
+        ],
+        [
+          "HDR-M-2.54_1x2",
+          1,
+          "HDR-M-2.54_1X2",
+          "J1",
+          {
+            "Supplier Part": "C124375",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-M-2.54_1x2",
+            "puuid": "70aa5812f21f4991bf427395d51849f4",
+            "uuid": "a9aa2b14f188405792fa87ac344499a4"
+          }
+        ],
+        [
+          "RPI-PICO-SMD_TH",
+          1,
+          "RPI_PICO_TH",
+          "U1",
+          {
+            "Contributor": "philbobagins",
+            "Manufacturer Part": "SC0915",
+            "Supplier": "Digi-Key",
+            "Supplier Part": "2648-SC0915CT-ND",
+            "Manufacturer": "Raspberry Pi",
+            "link": "https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf",
+            "spiceSymbolName": "RPI-PICO-SMD_TH",
+            "puuid": "7ac87b5cb43141ab9f693772683cff6b",
+            "uuid": "2e59bb1577334fe596d79098995e86cb"
+          }
+        ],
+        [
+          "MAX98357AETE+T",
+          1,
+          "TQFN-16_L3.0-W3.0-P0.50-BL-EP1.5",
+          "U3",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C910544",
+            "Manufacturer": "ADI(亚德诺)/MAXIM(美信)",
+            "Manufacturer Part": "MAX98357AETE+T",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "MAX98357AETE+T",
+            "puuid": "b8f36fb749ec4aa0a571e75992295eb6",
+            "uuid": "906918f208bf46c7af6af1256c5c5b8d"
+          }
+        ],
+        [
+          "ZX60-B-5S(31)",
+          1,
+          "USB-SMD_ZX60-B-5S",
+          "USB1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5338796",
+            "Manufacturer": "HRS(广濑)",
+            "Manufacturer Part": "ZX60-B-5S(31)",
+            "JLCPCB Part Class": "Extended Part",
+            "Contributor": "lcsc",
+            "spiceSymbolName": "ZX60-B-5S(31)",
+            "puuid": "3521b194802541299eda90e141a2886a",
+            "uuid": "59c38027916040e490a75f380b58f33d"
+          }
+        ],
+        [
+          "USB_B with slots",
+          1,
+          "USB-B-TH_USB-B10-BRW WITH SLOTS",
+          "USB2",
+          {
+            "Contributor": "philbobagins",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900017825",
+            "Manufacturer": "null",
+            "Manufacturer Part": "USB B",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "USB_B with slots",
+            "puuid": "48643baabe664aaba2872d2bb8fe74f7",
+            "uuid": "dd86aae6710740ffa52422ca8fd7e0ac"
+          }
+        ]
+      ],
+      "updateTime": 1723987211,
+      "createTime": 1720376654,
+      "histories": [],
+      "created_at": "2024-07-08 04:24:14",
+      "updated_at": "2024-08-18 23:20:11"
+    },
+    {
+      "uuid": "9c0bccf208c7b05dbf4e9ffb0f28900d",
+      "puuid": "bed09cb300f03b24814e1815587d2412",
+      "title": "PCB_EasyEDA-Project - Pico audio maker",
+      "filename": "PCB_EasyEDA-Project- Pico audio maker.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "36b1306a115341f4b4d9407fb34974e0": 1,
+        "f83673d09e13450d934ca6be4be5af8f": 1,
+        "7ac87b5cb43141ab9f693772683cff6b": 1,
+        "3521b194802541299eda90e141a2886a": 1,
+        "48643baabe664aaba2872d2bb8fe74f7": 1,
+        "70aa5812f21f4991bf427395d51849f4": 1,
+        "b8f36fb749ec4aa0a571e75992295eb6": 1
+      },
+      "BOM": [],
+      "updateTime": 1723987804,
+      "createTime": 1720453984,
+      "histories": [],
+      "created_at": "2024-07-09 01:53:04",
+      "updated_at": "2024-08-18 23:30:04"
+    }
+  ],
+  "sort": [],
+  "title": "EasyEDA-Project - Pico audio maker",
+  "foldername": "EasyEDA-Project - Pico audio maker",
+  "schfilename": "Pico audio maker.json",
+  "schfilemtime": 1723987211482
+}
