@@ -2,8 +2,8 @@
 
 TODO: Add description
 
-![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
-![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
+![./Exports-v1.1/Top.svg](./Exports-v1.1/Top.svg)
+![./Exports-v1.1/Bottom.svg](./Exports-v1.1/Bottom.svg)
 
 TODO: Add photo of completed board
 
