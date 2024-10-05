@@ -4,7 +4,7 @@
   "name": "EasyEDA-Project - Pico audio maker",
   "content": "",
   "created_at": "2024-07-08 04:24:14",
-  "updated_at": "2024-08-18 23:30:04",
+  "updated_at": "2024-10-05 13:17:42",
   "stick": "",
   "documents": [
     {
@@ -15,14 +15,14 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "59c38027916040e490a75f380b58f33d": 1,
         "dd86aae6710740ffa52422ca8fd7e0ac": 1,
         "906918f208bf46c7af6af1256c5c5b8d": 1,
         "fd11c9e744c44aeab6011e8bd4c3ea86": 2,
         "a9aa2b14f188405792fa87ac344499a4": 1,
         "2e59bb1577334fe596d79098995e86cb": 1,
         "a7291ceaee5442a999df26c55c7e675d": 1,
-        "3ec77201bbcd4ecd8722658d581a4e60": 1
+        "3ec77201bbcd4ecd8722658d581a4e60": 1,
+        "46ea60f66de04760a1d6b4eff0549680": 1
       },
       "BOM": [
         [
@@ -154,13 +154,13 @@
           {
             "Supplier": "LCSC",
             "Supplier Part": "C5338796",
-            "Manufacturer": "HRS(广濑)",
+            "Manufacturer": "HRS",
             "Manufacturer Part": "ZX60-B-5S(31)",
             "JLCPCB Part Class": "Extended Part",
             "Contributor": "lcsc",
             "spiceSymbolName": "ZX60-B-5S(31)",
-            "puuid": "3521b194802541299eda90e141a2886a",
-            "uuid": "59c38027916040e490a75f380b58f33d"
+            "puuid": "70abaf240f4a441ba8b8fc66a1c9baa7",
+            "uuid": "46ea60f66de04760a1d6b4eff0549680"
           }
         ],
         [
@@ -181,11 +181,11 @@
           }
         ]
       ],
-      "updateTime": 1723987211,
+      "updateTime": 1728097976,
       "createTime": 1720376654,
       "histories": [],
       "created_at": "2024-07-08 04:24:14",
-      "updated_at": "2024-08-18 23:20:11"
+      "updated_at": "2024-10-05 13:12:56"
     },
     {
       "uuid": "9c0bccf208c7b05dbf4e9ffb0f28900d",
@@ -201,22 +201,22 @@
         "36b1306a115341f4b4d9407fb34974e0": 1,
         "f83673d09e13450d934ca6be4be5af8f": 1,
         "7ac87b5cb43141ab9f693772683cff6b": 1,
-        "3521b194802541299eda90e141a2886a": 1,
         "48643baabe664aaba2872d2bb8fe74f7": 1,
         "70aa5812f21f4991bf427395d51849f4": 1,
-        "b8f36fb749ec4aa0a571e75992295eb6": 1
+        "b8f36fb749ec4aa0a571e75992295eb6": 1,
+        "70abaf240f4a441ba8b8fc66a1c9baa7": 1
       },
       "BOM": [],
-      "updateTime": 1723987804,
+      "updateTime": 1728098262,
       "createTime": 1720453984,
       "histories": [],
       "created_at": "2024-07-09 01:53:04",
-      "updated_at": "2024-08-18 23:30:04"
+      "updated_at": "2024-10-05 13:17:42"
     }
   ],
   "sort": [],
   "title": "EasyEDA-Project - Pico audio maker",
   "foldername": "EasyEDA-Project - Pico audio maker",
   "schfilename": "Pico audio maker.json",
-  "schfilemtime": 1723987211482
+  "schfilemtime": 1728097976284
 }
