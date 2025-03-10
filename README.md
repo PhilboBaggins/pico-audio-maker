@@ -7,6 +7,8 @@ TODO: Add description
 
 TODO: Add photo of completed board
 
+![demo-video.mp4](demo-video.mp4)
+
 ## Block diagram
 
 ```mermaid
